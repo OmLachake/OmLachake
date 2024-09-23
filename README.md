@@ -14,7 +14,14 @@
 
 ###
 
-<p align="left">I'm Om, a software engineer who loves to play with new technologies.<br><br>- 📚 I'm currently learning Azure and Static Regeneration for web content.<br>- ⚡ In my free time I learn about AI, Mixed Reality, and Web Frameworks.</p>
+<p align="left">
+
+👋 Hi, I'm Om, a  Software Engineer dedicated to creating exceptional digital experiences, particularly in financial planning and investing. With expertise in React, Next.js, and cloud services like Azure, I build user-centric, scalable applications that prioritize impact and efficiency. I hold a Master’s in Computer Science from Trinity College Dublin and have diverse experience in cloud computing, full stack development, and AI. I’m certified in Azure, with practical expertise in deploying and managing containerized solutions, Cosmos DB, and web apps.
+
+I thrive in fast-paced environments, enjoy solving complex challenges, and collaborate seamlessly with teams. I'm constantly expanding my skills and exploring new technologies to deliver top-tier solutions.
+
+Let's create something meaningful together!
+</p>
 
 ###
 
