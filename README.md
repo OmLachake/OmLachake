@@ -4,15 +4,17 @@
   </a>
 </div>
 
-###
+***
 
 <h1 align="left">Software Engineer</h1>
 
-###
+***
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+***
+
+
 
 <p align="left">
 
@@ -23,11 +25,17 @@ I thrive in fast-paced environments, enjoy solving complex challenges, and colla
 Let's create something meaningful together!
 </p>
 
-###
+
+
+***
+
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+
+
+***
 
 <br clear="both">
 
@@ -75,14 +83,14 @@ Let's create something meaningful together!
   <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge" height="35" alt="opengl logo"  />
 </div>
 
-###
+***
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+***
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=OmLachake&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+***
