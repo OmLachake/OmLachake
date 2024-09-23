@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Software Engineer</h1>
+<h1 align="left">Software Engineer</h1>
 
 ###
 
