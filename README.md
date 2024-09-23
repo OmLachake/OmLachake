@@ -4,15 +4,15 @@
   </a>
 </div>
 
-***
+###
 
 <h1 align="left">Software Engineer</h1>
 
-***
+###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-***
+###
 
 
 
@@ -27,7 +27,7 @@ Let's create something meaningful together!
 
 
 
-***
+###
 
 
 
@@ -35,7 +35,7 @@ Let's create something meaningful together!
 
 
 
-***
+###
 
 <br clear="both">
 
@@ -83,7 +83,7 @@ Let's create something meaningful together!
   <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge" height="35" alt="opengl logo"  />
 </div>
 
-***
+###
 
 <h3 align="left">🔥   My Stats :</h3>
 
